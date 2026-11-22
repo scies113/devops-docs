@@ -10,5 +10,3 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://scies113.github.io/devops-docs/`.
-
-[Тестовая ссылка](missing-page.md)
